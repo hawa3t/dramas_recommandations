@@ -16,3 +16,13 @@ a
 {
 	font-size: 20px;
 }
+
+body
+{
+	background-color: lightpink;
+}
+
+p,h1,a
+{
+	color: blueviolet;
+}
